@@ -1,4 +1,4 @@
-# Cross-Lingual-Document-Translator
+# Cross Lingual Document Translator
 This project implements a document translator which can translate English to Dutch and vice-versa. Statistical Machine Translation model has been used. IBM model and EM algorithm have been implemented from scratch.
 
 This project was done as part of the coursework of Information Retrieval at BITS Pilani.
